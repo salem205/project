@@ -3,7 +3,6 @@ int A(float x,float y,float z){
     float a;
     a=(x-y)/z;
     printf("the A=%f",a);
-
     return 0;
 }
 int a_(float x,float y,float z){
